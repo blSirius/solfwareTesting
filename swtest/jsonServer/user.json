@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": "da76",
+      "username": "anawin",
+      "password": "anawin123",
+      "balance": 0
+    },
+    {
+      "id": "de8a",
+      "username": "kittipat",
+      "password": "kittipat123",
+      "balance": 0
+    },
+    {
+      "id": "33d2",
+      "username": "supakrit",
+      "password": "supakrit123",
+      "balance": 12400
+    }
+  ]
+}
